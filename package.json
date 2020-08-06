@@ -1,0 +1,24 @@
+{
+  "name": "socket-io-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puroong/node-socket-io-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puroong/node-socket-io-tutorial/issues"
+  },
+  "homepage": "https://github.com/puroong/node-socket-io-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socker.io": "0.0.0-alpha-beta",
+    "socket.io": "^2.3.0"
+  }
+}
